@@ -10,7 +10,7 @@ Why Computer Science? There are a few reasons.
 1) This is the vehicle Randy used to enable the dreams of others
 2) Learning computer science teaches a form of reading and writing that a normal English curriculum does not. This will make you better readers and writers. Without furhter ado, here are your pathways.
 
-First decide, do you want to work on the [computer](), or with a robot?
+First decide, do you want to work on the [computer](Computer.md), or with a [robot](ProgIRL.md)?
 
 Then, spend some time learning how to use it working through the tutorials.
 
