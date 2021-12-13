@@ -20,7 +20,10 @@ Why Computer Science? There are a few reasons.
 
 - Finally, take a screenshot or video of what you created and attach it to the assignment in classroom.
   
-Scan this QR to visit this page on a mobile device.
-
+<center>
+<b>Scan this QR to visit this page on a mobile device.
+<br>
+<br>
 
 ![QR](images/QR.png)
+</center>
