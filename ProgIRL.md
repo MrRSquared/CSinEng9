@@ -9,7 +9,12 @@ We have access to many computing in real life options. Most are robots, but the 
 2) [Finch](https://www.birdbraintechnologies.com/finch/makecode/): These tutorials should run on a Chromebook.
 3) [Maqueen](https://github.com/MrRSquared/Oscats-Hackathon/tree/main/Robots/Non-FRC/Maqueen/Maqueen_Plus_Getting_Started_Tutorial_MakeCode-master): These should be able to be run from your Chromebook
 4) [Zumo](https://github.com/MrRSquared/Oscats-Hackathon/tree/main/Robots/Non-FRC/Zumo) fighting robots. You will need a robotics computer for these bots.
-5) [Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/programming-romi.html): This is a miniature version of the robots we use in our competition (sometimes, we actually compete with these.) You will need a robotics computer for these bots.
+5) [Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/programming-romi.html): This is a miniature version of the robots we use in our competition (sometimes, we actually compete with these.) You will need a robotics computer for these bots. 
+The Romi has a few introductory options. 
+- The [WPILib Docs](https://docs.wpilib.org/en/stable/docs/romi-robot/programming-romi.html) are a great place to begin
+- Then, Take a look at [this video series](https://www.youtube.com/watch?v=ihO-mw_4Qpo) from team 6814 Ellipse. [Here](https://github.com/SeanSun6814/FRC0ToAutonomous) is their Git too. It is helpful.
+- If you would like to go deeper into Java Programming, you can look at this video series from the incredible [Team Spectrum Team 3847](https://www.youtube.com/watch?v=j5g4nHV3FaY&t=115s), or
+- Our own [WPILib Course](https://mythinkscape.com/register/3ACACEBE) that goes in depth into how to program the Romi. 
 
 Regardless which robot you choose, here are some challenges for you...
 
