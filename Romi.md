@@ -22,7 +22,7 @@ Programming the Romi
    - Then, Take a look at [this video series](https://www.youtube.com/watch?v=ihO-mw_4Qpo) from team 6814 Ellipse. [Here](https://github.com/SeanSun6814/FRC0ToAutonomous) is their Git too. It is helpful.
    - If you would like to go deeper into Java Programming, you can look at this video series from the incredible [Team Spectrum Team 3847](https://www.youtube.com/watch?v=j5g4nHV3FaY&t=115s), or
    - Our own [WPILib Course](https://mythinkscape.com/register/3ACACEBE) that goes in depth into how to program the Romi. 
- - WHen you have some code to test, press the wpilib button in VSCode, and click simulate robot code. Then, use the simulator to control the robot.
+ - When you have some code to test, press the wpilib button in VSCode, and click simulate robot code. Then, use the simulator to control the robot.
 
 Regardless which robot you choose, here are some challenges for you...
 
