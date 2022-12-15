@@ -15,7 +15,7 @@ Programming the Romi
 - Install the software: start by installing the [WPILib Suite](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 - Connect to it: turn on the Romi and connect to it like they do [here](https://docs.wpilib.org/en/stable/docs/romi-robot/imaging-romi.html#wireless-network-setup)
   - You can use the wifi dongle ![wifi dongle](https://i5.walmartimages.com/asr/208ad6ea-8f27-422e-9018-a1c5fcd99cd6.7644846f1bea4d1b4966186b2962a1c5.jpeg?&odnHeight=100)
-  <img src="[drawing.jpg](https://i5.walmartimages.com/asr/208ad6ea-8f27-422e-9018-a1c5fcd99cd6.7644846f1bea4d1b4966186b2962a1c5.jpeg)" alt="drawing" style="width:200px;"/>
+  <img src="https://i5.walmartimages.com/asr/208ad6ea-8f27-422e-9018-a1c5fcd99cd6.7644846f1bea4d1b4966186b2962a1c5.jpeg" alt="drawing" style="width:200px;"/>
 - Open WPiLib and begin programming.
   - You can start with a new Romi Template, Example, or this blank Skeleton which matches the video.
     Resources:
